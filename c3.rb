@@ -2,6 +2,6 @@ require 'sinatra'
 
 get '/' do
 
-	"Hello World!"
+	"Hello World! haha by deepb1ue"
 
 end
